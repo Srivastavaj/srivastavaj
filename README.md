@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **frontend and backend web development**
 
-- 👨‍💻 All of my projects are available at [https://alphagrafx.dorik.io/](https://alphagrafx.dorik.io/)
+- 👨‍💻 All of my projects are available at [Alpha Grafx/]([https://alphagrafx.dorik.io](https://www.youtube.com/@AlphaGrafx)/)
 
-- 📄 Know about my experiences [https://alphagrafx.dorik.io/](https://alphagrafx.dorik.io/)
+- 📄 Know about my experiences [Portfolio/](https://alphagrafx.dorik.io/)
 
 - ⚡ Fun fact **I am also known as the Alpha guy working as a graphic designer and video editor**
 
