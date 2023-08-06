@@ -39,7 +39,7 @@
 
 # 🏆 Tropies:
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anwe712&theme=dracula&row=1&column=7"" /></a> </p> <br/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Srivastavaj&theme=dracula&row=1&column=7"" /></a> </p> <br/>
 
 
 <div align="center">
