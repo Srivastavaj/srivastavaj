@@ -1,4 +1,5 @@
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--a0VqOvf_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4a6t7pmm323uaz9rv1rf.png)
+
+<img align= "center" src="https://github.com/Srivastavaj/srivastavaj/blob/main/cover_pg.gif" alt="Code Imge ">
 <h1 align="center">Hi 👋, I'm Srivastava ji</h1>
 <h3 align="center">In the world of technology, I'm enhancing my skills to be a better version of myself.</h3>
 <img src="https://miro.medium.com/v2/resize:fit:2000/1*_i0cXIYsCA94HCGHNilKOQ.png" alt="Code Imge ">
