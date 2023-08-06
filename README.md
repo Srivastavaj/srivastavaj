@@ -37,12 +37,15 @@
 </div>
 
 # 🏆 Tropies:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anwe712&theme=dracula&row=1&column=7"" /></a> </p> <br/>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anwe712&theme=dracula&row=1&column=7"" /></a> </p> <br/>
 
 
-###
+<div align="center">
+
 
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/anwe712/count.svg?"  />
