@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **frontend and backend web development**
 
-- 👨‍💻 All of my projects are available at [Alpha Grafx/]([https://www.youtube.com/@AlphaGrafx/])
+- 👨‍💻 All of my projects are available at [Alpha Grafx/](https://www.youtube.com/@AlphaGrafx/)
 
 - 📄 Know about my experiences [Portfolio/](https://alphagrafx.dorik.io/)
 
